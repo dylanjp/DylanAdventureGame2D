@@ -1,0 +1,8 @@
+﻿  game.cpp
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\tilecomponent.h(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\tilecomponent.h(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\tilecomponent.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\tilecomponent.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\game.cpp(114): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan pratt\source\repos\1stsdlwindow\1stsdlwindow\game.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  1stSDLWindow.vcxproj -> C:\Users\Dylan Pratt\source\repos\1stSDLWindow\x64\Debug\1stSDLWindow.exe
